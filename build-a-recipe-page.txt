@@ -1,0 +1,31 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>GrandmasMadeWithLove</title>
+    </head>
+    <body>
+      <h1>GrandmasHomemadeMeatballs</h1>
+      <p>Recreate the tastes you miss</p>
+      <h2>Ingredients</h2>
+      <ul>
+        <li>ground beef</li>
+        <li>locatelli cheese</li>
+        <li>italian seasoned breadcrumbs</li>
+        <li>eggs</li>
+        </ul>
+        <h2>Instructions</h2>
+        <ol>
+          <li>Combine ground beef with all ingredients</li>
+          <li>Hand mix well until mixture forms a paste</li>
+        <li>Roll into one inch balls</li>
+        <li>Simmer in marinara sauce for two hours</li>
+        </ol>
+      <img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt="meatballs simmering in a sauce pot on the stovetop">
+      </body>
+      </html>
+
+** end of index.html **
+
